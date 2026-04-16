@@ -6,7 +6,7 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>PHP Test</h1>
+    <h1>version 2</h1>
     <?php
         echo "Hello, World!";
     ?>
